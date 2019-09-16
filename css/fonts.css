@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Ubuntu', 'Ubuntu - Bold', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    src: url("./fonts/Ubuntu-Bold.eot");
+    src: local('Ubuntu Bold'), local('Ubuntu-Bold'),
+    url('./fonts/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/Ubuntu-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/Ubuntu-Bold.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/Ubuntu-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/Ubuntu-Bold.svg#Ubuntu-Bold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    src: url("./fonts/Ubuntu-Regular.eot");
+    src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
+    url('./fonts/Ubuntu-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/Ubuntu-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/Ubuntu-Regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/Ubuntu-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/Ubuntu-Regular.svg#Ubuntu-Regular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Leksa Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url("./fonts/LeksaSans-DemiBold.eot");
+    src: local('Leksa Sans DemiBold'), local('LeksaSans-DemiBold'),
+    url('./fonts/LeksaSans-DemiBold.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/LeksaSans-DemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/LeksaSans-DemiBold.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/LeksaSans-DemiBold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/LeksaSans-DemiBold.svg#LeksaSans-DemiBold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Leksa Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./fonts/LeksaSans.eot");
+    src: local('Leksa Sans'), local('LeksaSans'),
+    url('./fonts/LeksaSans.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/LeksaSans.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/LeksaSans.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/LeksaSans.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/LeksaSans.svg#LeksaSans') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Leksa Sans', 'Leksa Sans - Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url("./fonts/LeksaSans-Bold.eot");
+    src: local('Leksa Sans Bold'), local('LeksaSans-Bold'),
+    url('./fonts/LeksaSans-Bold.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/LeksaSans-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/LeksaSans-Bold.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/LeksaSans-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/LeksaSans-Bold.svg#LeksaSans-Bold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('./fonts/Rubik-Regular.eot');
+    src: local('Rubik'), local('Rubik-Regular'),
+    url('./fonts/Rubik-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/Rubik-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/Rubik-Regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/Rubik-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/Rubik-Regular.svg#Rubik-Regular') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik', 'Rubik - Medium';
+    src: url('./fonts/Rubik-Medium.eot');
+    src: local('Rubik Medium'), local('Rubik-Medium'),
+    url('./fonts/Rubik-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/Rubik-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/Rubik-Medium.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/Rubik-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/Rubik-Medium.svg#Rubik-Medium') format('svg'); /* Legacy iOS */
+    font-weight: 500;
+    font-style: normal;
+}
